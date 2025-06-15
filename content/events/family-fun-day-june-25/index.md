@@ -4,9 +4,9 @@ eventSummary: ""
 eventStart: 2025-06-29 11:00:00
 eventEnd: 2025-06-29 17:00:00
 venues:
-  - oakley-cricket-club
+  - oakley-cc
 organisers:
-  - oakley-cricket-club
+  - oakley-cc
 ---
 ![Family Fun Day Poster. Advertises time and events. Text on page.](1000077236.png "Family Fun Day")
 
