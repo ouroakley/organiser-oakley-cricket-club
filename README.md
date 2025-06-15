@@ -1,6 +1,6 @@
-# oakley-cricket-club Organiser
+# Oakley Cricket Club Organiser
 
-This is an oakley-cricket-club organiser that demonstrates how to structure content for an Our Oakley website. It shows how to organise events, venues, and organisers with their associated information.
+This is an Oakley Cricket Club organiser that demonstrates how to structure content for an Our Oakley website. It shows how to organise events, venues, and organisers with their associated information.
 
 ## Directory Structure
 
