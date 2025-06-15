@@ -4,7 +4,7 @@ eventSummary: ""
 eventStart: 2025-06-29 11:00:00
 eventEnd: 2025-06-29 17:00:00
 venues:
-  - oakley-cc
+  - oakley-cricket-club
 organisers:
   - oakley-cc
 ---
