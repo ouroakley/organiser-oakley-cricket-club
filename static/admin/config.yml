@@ -59,6 +59,7 @@ collections:
         name: "venues"
         widget: "list"
         required: true
+        default: ["oakley-cricket-club"]
         hint: "Enter the venues for this event. Comma seperated, with no spaces. Replace spaces with a dash. Use tbc if required."
       - label: "Organisers"
         name: "organisers"
