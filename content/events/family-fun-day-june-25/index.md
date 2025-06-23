@@ -8,6 +8,7 @@ venues:
   - oakley-cricket-club
 organisers:
   - oakley-cc
+date: 2025-06-29
 ---
 ![Family Fun Day Poster. Advertises time and events. Text on page.](1000077236.png "Family Fun Day")
 
