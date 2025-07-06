@@ -10,6 +10,8 @@ venues:
   - oakley-cricket-club
 organisers:
   - oakley-cc
+aliases:
+  - /events/2025/06/family-fun-day/
 ---
 Everyone Welcome
 
